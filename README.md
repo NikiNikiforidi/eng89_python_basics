@@ -91,8 +91,7 @@ middle_name = 'Maria'
 last_name = 'Nikiforidi'
 ```
 
-
-# Create a variable called age (int) and display age in the same line as name
+**Task:Create variable called age (int) and display age in the same line as name**
 ```
 first = input("Enter first name:")
 last = input("Enter last name: ")
