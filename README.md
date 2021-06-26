@@ -1,9 +1,5 @@
 # Python Basics
 
-- Test installation and pycharm
-```
-print("hello world")
-```
 
 #### Variables: They work as a placeholder to store data
 - Strings: "anything between quotes"
@@ -16,8 +12,7 @@ Last_Name = "Nikiforidi"
 Salary = 10.5 # float value
 Age = 24 # int value
 my_age = 22
-```
-```
+
 print(First_Name)
 print(Last_Name)
 print(Salary)
